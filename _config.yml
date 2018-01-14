@@ -1,1 +1,9 @@
+repository: gracesafe/gracesafe.github.io
 theme: jekyll-theme-tactile
+
+gems:
+- jekyll-github-metadata
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-sitemap
+- jemoji

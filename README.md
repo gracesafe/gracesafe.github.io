@@ -11,5 +11,6 @@ Public website
 
 [Docker Hub Image](https://hub.docker.com/r/jekyll/jekyll/ "Official Jekyll Image")
 
-Container `docker pull jekyll/jekyll`
+Get the container locally `docker pull jekyll/jekyll`. Run the container using the current directory as the source that will be deployed `docker run -t --rm -v ${PWD}:/usr/src/app -p 4000:4000 starefossen/github-pages`.
+
 
