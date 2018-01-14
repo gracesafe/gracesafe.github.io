@@ -1,10 +1,9 @@
-# gracesafe.github.io
-Public website
+# Gracesafe Public Pages
 
-[Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "GitHub Pages flavour")
+You can edit the source for this website in Markdown. [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet "GitHub Pages flavour")
 
 # Slack link
-[Slack workspace](https://join.slack.com/t/gracesafe/shared_invite/enQtMjk4MzM3MDk1MDI3LTRlODlkNjBjMWNhNzI4MjZiNzkxZTE3ZjI0MzNlMGE4M2Y0MDMxY2NkZGEwYjVkODU1NTc4OTVlMWE5NzhkNmQ "Invite link")
+Team collaboration is on Slack. Join the [Slack workspace](https://join.slack.com/t/gracesafe/shared_invite/enQtMjk4MzM3MDk1MDI3LTRlODlkNjBjMWNhNzI4MjZiNzkxZTE3ZjI0MzNlMGE4M2Y0MDMxY2NkZGEwYjVkODU1NTc4OTVlMWE5NzhkNmQ "Invite link")
 
 # Docker Jekyll for development
 [Docker Repo](https://github.com/envygeeks/jekyll-docker/blob/master/README.md "Install instructions")
